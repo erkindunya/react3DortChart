@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+
+.svg-chart-container {
+
+  height: 100%;
+  width: auto;
+}
